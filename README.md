@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is **Nanna
-I'm a MSc student at *GEUS
+My name is **Nanna**
+I'm a MSc student at *GEUS*
 
 <!--
 ** bold
